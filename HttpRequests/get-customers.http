@@ -1,0 +1,16 @@
+### Configure a variable for the web service base address.
+@base_address = https://localhost:5151/api/customers/
+### Make a GET request to the base address.
+GET {{base_address}}
+
+###
+
+GET {{base_address}}?country=USA
+Accept: application/xml
+###
+
+GET {{base_address}}anton
+
+###
+
+GET {{base_address}}eblan

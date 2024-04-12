@@ -1,0 +1,373 @@
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 15:22:24.117 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:22:45.452 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:22:57.134 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:23:26.624 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:08.904 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:12.898 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:28.551 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:34.802 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:39.945 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:43.217 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:47.065 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:47.977 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:54.125 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:54.748 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:24:57.846 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:25:09.560 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:25:21.600 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:25:26.183 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:25:27.030 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:25:27.211 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:25:35.170 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:25:45.301 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 15:26:13.415 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:26:20.819 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:26:33.382 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:27:06.068 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 15:28:36.874 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 15:35:55.901 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:00.789 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:09.816 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:13.448 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:15.776 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:21.561 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:24.520 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:35.449 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:51.902 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:36:55.890 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:37:05.754 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:37:08.146 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 15:40:17.459 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 15:40:53.253 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 15:41:03.359 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:41:05.497 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:41:19.083 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:41:21.873 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:41:25.547 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:41:29.953 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:41:33.667 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 15:46:07.195 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:50:22.012 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:55:15.048 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:55:39.604 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:55:50.268 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:55:51.715 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:56:10.450 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 15:56:35.545 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 15:57:03.338 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 16:02:56.092 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@p0='?' (Size = 5), @p1='?' (Size = 11), @p2='?' (Size = 8), @p3='?' (Size = 8), @p4='?' (Size = 10), @p5='?' (Size = 3), @p6='?' (Size = 3), @p7='?', @p8='?' (Size = 14), @p9='?' (Size = 5), @p10='?' (Size = 2)], CommandType='Text', CommandTimeout='30']
+      INSERT INTO "Customers" ("CustomerId", "Address", "City", "CompanyName", "ContactName", "ContactTitle", "Country", "Fax", "Phone", "PostalCode", "Region")
+      VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10);
+dbug: 29.03.2024 16:05:13.173 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@p0='?' (Size = 5), @p1='?', @p2='?', @p3='?' (Size = 8), @p4='?', @p5='?', @p6='?', @p7='?', @p8='?' (Size = 14), @p9='?', @p10='?'], CommandType='Text', CommandTimeout='30']
+      INSERT INTO "Customers" ("CustomerId", "Address", "City", "CompanyName", "ContactName", "ContactTitle", "Country", "Fax", "Phone", "PostalCode", "Region")
+      VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10);
+dbug: 29.03.2024 16:47:08.687 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 16:47:27.157 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@p10='?' (Size = 5), @p0='?', @p1='?', @p2='?' (Size = 10), @p3='?', @p4='?', @p5='?', @p6='?', @p7='?', @p8='?', @p9='?'], CommandType='Text', CommandTimeout='30']
+      UPDATE "Customers" SET "Address" = @p0, "City" = @p1, "CompanyName" = @p2, "ContactName" = @p3, "ContactTitle" = @p4, "Country" = @p5, "Fax" = @p6, "Phone" = @p7, "PostalCode" = @p8, "Region" = @p9
+      WHERE "CustomerId" = @p10
+      RETURNING 1;
+dbug: 29.03.2024 16:48:35.740 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@p10='?' (Size = 5), @p0='?', @p1='?', @p2='?' (Size = 10), @p3='?', @p4='?', @p5='?', @p6='?' (Size = 5), @p7='?', @p8='?', @p9='?'], CommandType='Text', CommandTimeout='30']
+      UPDATE "Customers" SET "Address" = @p0, "City" = @p1, "CompanyName" = @p2, "ContactName" = @p3, "ContactTitle" = @p4, "Country" = @p5, "Fax" = @p6, "Phone" = @p7, "PostalCode" = @p8, "Region" = @p9
+      WHERE "CustomerId" = @p10
+      RETURNING 1;
+dbug: 29.03.2024 16:48:44.848 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@p10='?' (Size = 5), @p0='?', @p1='?', @p2='?' (Size = 10), @p3='?', @p4='?', @p5='?', @p6='?' (Size = 5), @p7='?', @p8='?', @p9='?'], CommandType='Text', CommandTimeout='30']
+      UPDATE "Customers" SET "Address" = @p0, "City" = @p1, "CompanyName" = @p2, "ContactName" = @p3, "ContactTitle" = @p4, "Country" = @p5, "Fax" = @p6, "Phone" = @p7, "PostalCode" = @p8, "Region" = @p9
+      WHERE "CustomerId" = @p10
+      RETURNING 1;
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 16:53:49.376 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 16:53:52.633 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@p10='?' (Size = 5), @p0='?', @p1='?', @p2='?' (Size = 10), @p3='?', @p4='?', @p5='?', @p6='?' (Size = 5), @p7='?', @p8='?', @p9='?'], CommandType='Text', CommandTimeout='30']
+      UPDATE "Customers" SET "Address" = @p0, "City" = @p1, "CompanyName" = @p2, "ContactName" = @p3, "ContactTitle" = @p4, "Country" = @p5, "Fax" = @p6, "Phone" = @p7, "PostalCode" = @p8, "Region" = @p9
+      WHERE "CustomerId" = @p10
+      RETURNING 1;
+dbug: 29.03.2024 16:53:56.989 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__p_0
+      LIMIT 1
+dbug: 29.03.2024 16:53:57.004 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@p0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      DELETE FROM "Customers"
+      WHERE "CustomerId" = @p0
+      RETURNING 1;
+dbug: 29.03.2024 16:53:59.369 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 16:54:03.762 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 16:54:15.731 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 17:07:47.877 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 17:11:11.209 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 17:11:25.586 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+dbug: 29.03.2024 17:13:20.170 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (Size = 3)], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      WHERE "c"."CustomerId" = @__id_0
+      LIMIT 1
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 17:45:17.566 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 17:45:28.122 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+dbug: 29.03.2024 17:45:50.863 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 29.03.2024 17:46:05.092 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 01.04.2024 17:12:04.050 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 06.04.2024 20:52:25.278 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"

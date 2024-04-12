@@ -1,0 +1,89 @@
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 28.03.2024 17:38:13.789 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__customerId_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."CustomerId", "t"."Address", "t"."City", "t"."CompanyName", "t"."ContactName", "t"."ContactTitle", "t"."Country", "t"."Fax", "t"."Phone", "t"."PostalCode", "t"."Region", "o"."OrderId", "o"."CustomerId", "o"."EmployeeId", "o"."Freight", "o"."OrderDate", "o"."RequiredDate", "o"."ShipAddress", "o"."ShipCity", "o"."ShipCountry", "o"."ShipName", "o"."ShipPostalCode", "o"."ShipRegion", "o"."ShipVia", "o"."ShippedDate"
+      FROM (
+          SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+          FROM "Customers" AS "c"
+          WHERE "c"."CustomerId" = @__customerId_0
+          LIMIT 1
+      ) AS "t"
+      LEFT JOIN "Orders" AS "o" ON "t"."CustomerId" = "o"."CustomerId"
+      ORDER BY "t"."CustomerId"
+dbug: 28.03.2024 18:11:36.652 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__customerId_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."CustomerId", "t"."Address", "t"."City", "t"."CompanyName", "t"."ContactName", "t"."ContactTitle", "t"."Country", "t"."Fax", "t"."Phone", "t"."PostalCode", "t"."Region", "o"."OrderId", "o"."CustomerId", "o"."EmployeeId", "o"."Freight", "o"."OrderDate", "o"."RequiredDate", "o"."ShipAddress", "o"."ShipCity", "o"."ShipCountry", "o"."ShipName", "o"."ShipPostalCode", "o"."ShipRegion", "o"."ShipVia", "o"."ShippedDate"
+      FROM (
+          SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+          FROM "Customers" AS "c"
+          WHERE "c"."CustomerId" = @__customerId_0
+          LIMIT 1
+      ) AS "t"
+      LEFT JOIN "Orders" AS "o" ON "t"."CustomerId" = "o"."CustomerId"
+      ORDER BY "t"."CustomerId"
+dbug: 28.03.2024 18:13:41.653 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__customerId_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."CustomerId", "t"."Address", "t"."City", "t"."CompanyName", "t"."ContactName", "t"."ContactTitle", "t"."Country", "t"."Fax", "t"."Phone", "t"."PostalCode", "t"."Region", "o"."OrderId", "o"."CustomerId", "o"."EmployeeId", "o"."Freight", "o"."OrderDate", "o"."RequiredDate", "o"."ShipAddress", "o"."ShipCity", "o"."ShipCountry", "o"."ShipName", "o"."ShipPostalCode", "o"."ShipRegion", "o"."ShipVia", "o"."ShippedDate"
+      FROM (
+          SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+          FROM "Customers" AS "c"
+          WHERE "c"."CustomerId" = @__customerId_0
+          LIMIT 1
+      ) AS "t"
+      LEFT JOIN "Orders" AS "o" ON "t"."CustomerId" = "o"."CustomerId"
+      ORDER BY "t"."CustomerId"
+dbug: 28.03.2024 18:15:20.915 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__customerId_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."CustomerId", "t"."Address", "t"."City", "t"."CompanyName", "t"."ContactName", "t"."ContactTitle", "t"."Country", "t"."Fax", "t"."Phone", "t"."PostalCode", "t"."Region", "o"."OrderId", "o"."CustomerId", "o"."EmployeeId", "o"."Freight", "o"."OrderDate", "o"."RequiredDate", "o"."ShipAddress", "o"."ShipCity", "o"."ShipCountry", "o"."ShipName", "o"."ShipPostalCode", "o"."ShipRegion", "o"."ShipVia", "o"."ShippedDate"
+      FROM (
+          SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+          FROM "Customers" AS "c"
+          WHERE "c"."CustomerId" = @__customerId_0
+          LIMIT 1
+      ) AS "t"
+      LEFT JOIN "Orders" AS "o" ON "t"."CustomerId" = "o"."CustomerId"
+      ORDER BY "t"."CustomerId"
+Database path: C:\cs12dotnet8\PracticalApps\Northwind.db
+dbug: 28.03.2024 18:38:54.521 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__customerId_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."CustomerId", "t"."Address", "t"."City", "t"."CompanyName", "t"."ContactName", "t"."ContactTitle", "t"."Country", "t"."Fax", "t"."Phone", "t"."PostalCode", "t"."Region", "o"."OrderId", "o"."CustomerId", "o"."EmployeeId", "o"."Freight", "o"."OrderDate", "o"."RequiredDate", "o"."ShipAddress", "o"."ShipCity", "o"."ShipCountry", "o"."ShipName", "o"."ShipPostalCode", "o"."ShipRegion", "o"."ShipVia", "o"."ShippedDate"
+      FROM (
+          SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+          FROM "Customers" AS "c"
+          WHERE "c"."CustomerId" = @__customerId_0
+          LIMIT 1
+      ) AS "t"
+      LEFT JOIN "Orders" AS "o" ON "t"."CustomerId" = "o"."CustomerId"
+      ORDER BY "t"."CustomerId"
+dbug: 28.03.2024 18:39:05.543 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."Country", "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      ORDER BY "c"."Country"
+dbug: 28.03.2024 18:39:05.569 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "c"."Country", "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+      FROM "Customers" AS "c"
+      ORDER BY "c"."Country"
+dbug: 28.03.2024 18:39:07.697 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__customerId_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."CustomerId", "t"."Address", "t"."City", "t"."CompanyName", "t"."ContactName", "t"."ContactTitle", "t"."Country", "t"."Fax", "t"."Phone", "t"."PostalCode", "t"."Region", "o"."OrderId", "o"."CustomerId", "o"."EmployeeId", "o"."Freight", "o"."OrderDate", "o"."RequiredDate", "o"."ShipAddress", "o"."ShipCity", "o"."ShipCountry", "o"."ShipName", "o"."ShipPostalCode", "o"."ShipRegion", "o"."ShipVia", "o"."ShippedDate"
+      FROM (
+          SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+          FROM "Customers" AS "c"
+          WHERE "c"."CustomerId" = @__customerId_0
+          LIMIT 1
+      ) AS "t"
+      LEFT JOIN "Orders" AS "o" ON "t"."CustomerId" = "o"."CustomerId"
+      ORDER BY "t"."CustomerId"
+dbug: 28.03.2024 18:46:30.212 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__customerId_0='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."CustomerId", "t"."Address", "t"."City", "t"."CompanyName", "t"."ContactName", "t"."ContactTitle", "t"."Country", "t"."Fax", "t"."Phone", "t"."PostalCode", "t"."Region", "o"."OrderId", "o"."CustomerId", "o"."EmployeeId", "o"."Freight", "o"."OrderDate", "o"."RequiredDate", "o"."ShipAddress", "o"."ShipCity", "o"."ShipCountry", "o"."ShipName", "o"."ShipPostalCode", "o"."ShipRegion", "o"."ShipVia", "o"."ShippedDate"
+      FROM (
+          SELECT "c"."CustomerId", "c"."Address", "c"."City", "c"."CompanyName", "c"."ContactName", "c"."ContactTitle", "c"."Country", "c"."Fax", "c"."Phone", "c"."PostalCode", "c"."Region"
+          FROM "Customers" AS "c"
+          WHERE "c"."CustomerId" = @__customerId_0
+          LIMIT 1
+      ) AS "t"
+      LEFT JOIN "Orders" AS "o" ON "t"."CustomerId" = "o"."CustomerId"
+      ORDER BY "t"."CustomerId"

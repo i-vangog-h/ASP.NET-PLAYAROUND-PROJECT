@@ -1,0 +1,19 @@
+﻿@page
+@using Northwind.EntityModels;
+@model Northwind.Razor.Employees.MyFeature.Pages.EmployeesListPageModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+  <h1 class="display-2">Employees</h1>
+</div>
+
+<div class="row">
+@foreach(Employee employee in Model.Employees)
+{
+  <div class="col-sm-3">
+    <!--This will look in Pages\Shared for _Employee.cshtml
+        and pass the employee model to it.-->
+    <partial name="_Employee" model="employee" />
+  </div>
+}
+</div>

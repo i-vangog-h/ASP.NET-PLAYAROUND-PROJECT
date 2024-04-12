@@ -1,0 +1,20 @@
+### Configure a variable for the web service base address.
+@base_address = https://localhost:5151/api/customers/
+
+###
+
+PUT {{base_address}}eblan
+Content-Type: application/json
+
+{
+  "CustomerId": "EBLAN",
+  "CompanyName": "pidarsCrew",
+  "fax": "hujax"
+}
+
+
+###
+GET {{base_address}}eblan
+
+###
+DELETE {{base_address}}eblan

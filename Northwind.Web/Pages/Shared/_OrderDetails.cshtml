@@ -1,0 +1,21 @@
+﻿@using Northwind.EntityModels
+@model Northwind.EntityModels.Order
+
+<div class="card border-dark mb-3" style="max-width: 18rem;">
+    <div class="card-header">Order #@Model?.OrderId</div>
+
+    <div class="card-body text-dark">
+        <h5 class="card-title">Ordered on: @Model?.OrderDate</h5>
+        <div class="card-text">
+            <p>Required date: @Model?.RequiredDate</p>
+            <p>Freight: @Model?.Freight</p>
+            <p>Ship name: @Model?.ShipName</p>
+            <p>Adress: @Model?.ShipAddress</p>
+            <p>City: @Model?.ShipCity</p>
+            <p>Country: @Model?.ShipCountry</p>
+            <p>Region: @Model?.ShipRegion</p>
+            <p>Postal code: @Model?.ShipPostalCode</p>
+        </div>
+    </div>
+
+</div>
